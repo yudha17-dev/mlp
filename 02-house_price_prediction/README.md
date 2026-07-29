@@ -5,7 +5,7 @@
 </a>
 
 predicting house prices  
-Dataset: [Kaggle Titanic Dataset](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
+Dataset: [Kaggle House Prices Dataset](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
 ## Project Organization
 
 ```
