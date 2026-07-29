@@ -4,8 +4,8 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-predicting house prices
-
+predicting house prices  
+Dataset: [Kaggle Titanic Dataset](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview)
 ## Project Organization
 
 ```
