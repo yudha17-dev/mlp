@@ -7,3 +7,4 @@ A collection of machine learning projects as I work through different concepts a
 |1|Titanic Survival Prediction|✅|
 |2|House Prices Prediction|⏳|
 
+Sources linked in the `README.md` file in each project folder.
