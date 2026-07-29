@@ -4,8 +4,8 @@
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
 
-predict whether someone survives the titanic incident based on some criteria
-
+predict whether someone survives the titanic incident based on some criteria  
+Dataset: [Kaggle Titanic Dataset](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 ## Project Organization
 
 ```
